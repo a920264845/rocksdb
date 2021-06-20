@@ -8,7 +8,7 @@ from advisor.db_log_parser import DatabaseLogs, DataSource
 from advisor.db_options_parser import DatabaseOptions
 from advisor.db_stats_fetcher import LogStatsParser, OdsStatsFetcher
 import argparse
-
+sad
 
 def main(args):
     # initialise the RulesSpec parser
